@@ -1,4 +1,4 @@
-﻿package com.arquitectura_torre.arch.domain.contracts.persistence.repositories;
+package com.arquitectura_torre.arch.domain.contracts.persistence.repositories;
 
 import com.arquitectura_torre.arch.domain.entities.Product;
 
