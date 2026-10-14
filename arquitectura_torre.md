@@ -1,4 +1,4 @@
-# Arquitectura Torre
+# Arquitectura Jenga (o Torre)
 
 ### Propuesta de Arquitectura de software orientada a la simpleza y escalabilidad horizontal
 
