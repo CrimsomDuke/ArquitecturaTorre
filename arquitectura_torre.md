@@ -90,3 +90,6 @@ un proyecto con la arquitectura Torre.
 3. **Capa de Dominio**: Contiene Entidades y Contracts (separados por bll y persistence)
 4. **Capa de Persistencia**: Contiene los repositorios
 5. **Capa de BLL**: Contiene los servicios de negocio, validaciones inter-dominio, etc
+
+## Diagrama de Paquetes
+![Diagrama de Paquetes](docs/imgs/diagrama_paquetes.png)
